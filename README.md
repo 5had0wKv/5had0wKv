@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liuhaihuaAACC
-- 👀 I’m interested in woman
-- 🌱 I’m currently learning c++、linux
+- 👀 I’m interested in math、English、history and computer science.
+- 🌱 I’m currently learning c++、linux、Network and Information Security anda AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
